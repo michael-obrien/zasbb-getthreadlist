@@ -1,6 +1,6 @@
 'use strict';
 
-var timeConvert = require('./11_time-convert');
+var timeConvert = require('./time-convert');
 
 var threadList = {
   title: [],
